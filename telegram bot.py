@@ -2,7 +2,7 @@ import telebot
 import requests 
 from bs4 import BeautifulSoup 
 import re
-bot = telebot.TeleBot("5815313878:AAH_f0-2euh7yREDyZaeEil5T4pDZ9VXNEA")
+bot = telebot.TeleBot("YOUR TELEGRAM TOKEN")
 
 @bot.message_handler(commands=['start'])
 def send_welcome(message):
