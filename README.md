@@ -1,1 +1,1 @@
-# tg_bot
+# currency_tg_bot
